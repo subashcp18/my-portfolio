@@ -1,0 +1,11 @@
+{
+  "[project]/components/Lanyard.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/Lanyard.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_three_build_three_core_18d0oq6so9l-t.js",
+      "static/chunks/node_modules_three_build_three_module_03rsyo66totzs.js",
+      "static/chunks/node_modules_0-90q8ixrir8v._.js",
+      "static/chunks/components_1laezjm-kkrze._.js"
+    ]
+  }
+}
